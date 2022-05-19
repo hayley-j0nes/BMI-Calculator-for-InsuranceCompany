@@ -25,17 +25,9 @@ import java.util.Queue;
  *
  */
 
-//Store all the patient name in the queue data structure using the enqueue method and use 
-//the dequeue to remove patient name from the queue data structure and print it. 
+//Stores data in the queue structure
 
-//You should notice the first in first out concept
-
-//https://www.youtube.com/watch?v=91CMnJeHJVc&list=PL59LTecnGM1Mg6I4i_KbS0w5bPcDjl7oz&index=18&ab_channel=AlexLee
-
-//This class is accessible throughout the program so it's public
 public class InsuranceCompany implements BMICaluculation {
-
-
 
 	@Override
 	public double BMI(String height, String weight) {
