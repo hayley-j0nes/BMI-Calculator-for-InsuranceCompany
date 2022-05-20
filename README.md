@@ -1,4 +1,4 @@
-# BMI Calculator for InsuranceCompany
+# BMI Calculator for Insurance Company
 
 ## General info
 Simple Java BMI Calculator that takes user input to relay the price category of the customer to the Insurance Company. 
